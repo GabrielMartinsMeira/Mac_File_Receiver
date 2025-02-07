@@ -1,6 +1,6 @@
 # Leitura-MAC-s
 
-Script para recebimento de arquivos .csv/.txt utilizando as bibliotecas tqdm e socket para o envio dos arquivos.
+Script para recebimento de arquivos .csv/.txt utilizando as bibliotecas tqdm e socket para o recebimento dos arquivos.
 
 # 📋 Pré-requisitos
 
