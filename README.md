@@ -10,6 +10,6 @@ Use o instalador de pacotes pip para instalar as bibliotecas presentes no arquiv
 
 # Execução
 
-Para a execução do software basta estar conectado a uma rede e iniciar o script python, basta pegar o endereço IP das máquina servidor e adicionar ao script de conexão desejado. Basta o seguinte comando para execução
+Necessário estar conectado a uma rede para funcionalidade do script. Para a conexão com demais computadores basta utilizar o endereço IP do servidor e adicionar ao script de conexão desejado. Para execução do programa basta utilizar o seguinte comando:
 
 python receive_macs.py
