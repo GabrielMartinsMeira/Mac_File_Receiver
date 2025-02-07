@@ -1,4 +1,4 @@
-# Leitura-MAC-s
+# Mac_File_Receiver
 
 Script para recebimento de arquivos .csv/.txt utilizando as bibliotecas tqdm e socket para o recebimento dos arquivos.
 
